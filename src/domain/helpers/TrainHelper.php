@@ -5,7 +5,7 @@ namespace yii2lab\ai\domain\helpers;
 use Phpml\Classification\KNearestNeighbors;
 use yii\helpers\ArrayHelper;
 use yii2lab\ai\domain\entities\TrainEntity;
-use yii2lab\extension\common\helpers\StringHelper;
+use yii2rails\extension\common\helpers\StringHelper;
 
 class TrainHelper {
 	

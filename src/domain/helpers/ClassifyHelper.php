@@ -12,8 +12,8 @@ use NlpTools\Documents\TokensDocument;
 use NlpTools\FeatureFactories\DataAsFeatures;
 use NlpTools\Classifiers\MultinomialNBClassifier;
 use yii2lab\ai\domain\models\FeatureBasedNB;
-use yii2lab\extension\store\StoreFile;
-use yii2lab\extension\yii\helpers\FileHelper;
+use yii2rails\extension\store\StoreFile;
+use yii2rails\extension\yii\helpers\FileHelper;
 
 class ClassifyHelper {
 	

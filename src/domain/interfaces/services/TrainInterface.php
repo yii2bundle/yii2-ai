@@ -2,7 +2,7 @@
 
 namespace yii2lab\ai\domain\interfaces\services;
 
-use yii2lab\domain\interfaces\services\CrudInterface;
+use yii2rails\domain\interfaces\services\CrudInterface;
 
 /**
  * Interface TrainInterface

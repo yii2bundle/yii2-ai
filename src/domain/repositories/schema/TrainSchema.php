@@ -2,8 +2,8 @@
 
 namespace yii2lab\ai\domain\repositories\schema;
 
-use yii2lab\domain\enums\RelationEnum;
-use yii2lab\domain\repositories\relations\BaseSchema;
+use yii2rails\domain\enums\RelationEnum;
+use yii2rails\domain\repositories\relations\BaseSchema;
 
 /**
  * Class TrainSchema

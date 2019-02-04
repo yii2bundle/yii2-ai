@@ -2,8 +2,8 @@
 
 namespace yii2lab\ai\domain\helpers;
 
-use yii2lab\domain\data\Query;
-use yii2lab\extension\arrayTools\helpers\ArrayIterator;
+use yii2rails\domain\data\Query;
+use yii2rails\extension\arrayTools\helpers\ArrayIterator;
 
 class SplitHelper {
 	

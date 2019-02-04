@@ -4,10 +4,10 @@
  * @var $entity \yii2lab\ai\domain\entities\BotEntity
  */
 
-use yii2lab\extension\widget\entityActions\actions\DeleteAction;
-use yii2lab\extension\widget\entityActions\actions\UpdateAction;
-use yii2lab\extension\widget\entityActions\EntityActionsWidget;
-use yii2lab\extension\yii\widgets\DetailView;
+use yii2rails\extension\widget\entityActions\actions\DeleteAction;
+use yii2rails\extension\widget\entityActions\actions\UpdateAction;
+use yii2rails\extension\widget\entityActions\EntityActionsWidget;
+use yii2rails\extension\yii\widgets\DetailView;
 
 $this->title = $entity->title;
 

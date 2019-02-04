@@ -4,8 +4,8 @@ namespace yii2lab\ai\domain\services;
 
 use yii2lab\ai\domain\helpers\TrainHelper;
 use yii2lab\ai\domain\interfaces\services\TrainInterface;
-use yii2lab\domain\data\Query;
-use yii2lab\domain\services\base\BaseActiveService;
+use yii2rails\domain\data\Query;
+use yii2rails\domain\services\base\BaseActiveService;
 
 /**
  * Class TrainService

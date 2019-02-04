@@ -3,7 +3,7 @@
 namespace yii2lab\ai\domain\repositories\ar;
 
 use yii2lab\ai\domain\interfaces\repositories\TrainInterface;
-use yii2lab\extension\activeRecord\repositories\base\BaseActiveArRepository;
+use yii2rails\extension\activeRecord\repositories\base\BaseActiveArRepository;
 
 /**
  * Class TrainRepository

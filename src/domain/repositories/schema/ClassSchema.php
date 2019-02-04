@@ -2,7 +2,7 @@
 
 namespace yii2lab\ai\domain\repositories\schema;
 
-use yii2lab\domain\repositories\relations\BaseSchema;
+use yii2rails\domain\repositories\relations\BaseSchema;
 
 /**
  * Class ClassSchema

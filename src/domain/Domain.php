@@ -11,7 +11,7 @@ namespace yii2lab\ai\domain;
  * @property-read \yii2lab\ai\domain\interfaces\services\BotInterface $bot
  * @property-read \yii2lab\ai\domain\interfaces\services\ClassInterface $class
  */
-class Domain extends \yii2lab\domain\Domain {
+class Domain extends \yii2rails\domain\Domain {
 
 	public function config() {
 		return [

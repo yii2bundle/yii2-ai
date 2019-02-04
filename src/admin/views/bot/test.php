@@ -10,7 +10,7 @@ use yii\grid\GridView;
 use yii\helpers\ArrayHelper;
 use yii2lab\ai\domain\entities\BotEntity;
 use yii2lab\ai\domain\entities\TrainEntity;
-use yii2lab\extension\yii\widgets\DetailView;
+use yii2rails\extension\yii\widgets\DetailView;
 
 $this->title = $entity->title;
 

@@ -3,7 +3,7 @@
 namespace yii2lab\ai\domain\repositories\memory;
 
 use yii2lab\ai\domain\interfaces\repositories\TrainInterface;
-use yii2lab\domain\repositories\BaseRepository;
+use yii2rails\domain\repositories\BaseRepository;
 
 /**
  * Class TrainRepository

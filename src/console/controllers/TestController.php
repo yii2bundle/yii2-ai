@@ -18,13 +18,13 @@ use yii2lab\ai\game\enums\ColorEnum;
 use yii2lab\ai\game\factories\UnitFactory;
 use yii2lab\ai\game\helpers\Matrix;
 use yii2lab\ai\game\helpers\MatrixHelper;
-use yii2lab\domain\data\EntityCollection;
-use yii2lab\domain\data\Query;
-use yii2lab\extension\arrayTools\helpers\Collection;
-use yii2lab\extension\console\base\Controller;
-use yii2lab\extension\console\helpers\input\Enter;
-use yii2lab\extension\console\helpers\input\Select;
-use yii2lab\extension\console\helpers\Output;
+use yii2rails\domain\data\EntityCollection;
+use yii2rails\domain\data\Query;
+use yii2rails\extension\arrayTools\helpers\Collection;
+use yii2rails\extension\console\base\Controller;
+use yii2rails\extension\console\helpers\input\Enter;
+use yii2rails\extension\console\helpers\input\Select;
+use yii2rails\extension\console\helpers\Output;
 
 class TestController extends Controller {
 	

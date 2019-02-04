@@ -10,9 +10,9 @@ use yii2lab\ai\domain\helpers\ClassifyHelper;
 use yii2lab\ai\domain\helpers\SplitHelper;
 use yii2lab\ai\domain\helpers\TrainHelper;
 use yii2lab\ai\domain\services\BotService;
-use yii2lab\domain\data\Query;
-use yii2lab\extension\web\helpers\ClientHelper;
-use yii2lab\domain\web\ActiveController as Controller;
+use yii2rails\domain\data\Query;
+use yii2rails\extension\web\helpers\ClientHelper;
+use yii2rails\domain\web\ActiveController as Controller;
 use yii2lab\navigation\domain\widgets\Alert;
 
 /**
